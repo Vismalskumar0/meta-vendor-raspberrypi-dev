@@ -43,6 +43,7 @@ RDEPENDS:${PN}:append:rdkv-oss = " \
         libepoxy \
         libmms \
         librsvg \
+        logrotate \
         mpg123 \
         pango \
         pulseaudio \
